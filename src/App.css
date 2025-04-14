@@ -1,0 +1,28 @@
+body{
+    background-color: antiquewhite;
+}
+
+.lista{
+    display: flex;
+    gap: 2rem;  
+    text-align: center; 
+}
+
+.tarjeta{    
+    border: 2px solid violet;
+    width: 300px;
+    height: auto;
+    
+}
+
+.tarjeta button{        
+    width: auto;
+    height: auto;
+}
+
+.verLista, .vistoLista{    
+    display: flex;
+    gap: 2rem;  
+    text-align: center; 
+    
+}

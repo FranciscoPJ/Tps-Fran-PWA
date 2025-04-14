@@ -1,0 +1,60 @@
+[{
+    "id":1,
+    "titulo":"Batman 1",
+    "director":"Christopher Nolan",
+    "año":2005,
+    "genero":"Accion",
+    "rating":"PG-13",
+    "tipo":"Pelicula",
+    "lista": 1
+},
+{
+    "id":2,
+    "titulo":"El Hombre Araña",
+    "director":"Sam Raimi",
+    "año":2002,
+    "genero":"Aventura",
+    "rating":"PG-13",
+    "tipo":"Pelicula",
+    "lista": 1
+},
+{
+    "id":3,
+    "titulo":"Star Wars: Episodio I - La amenaza fantasma",
+    "director":"George Lucas",
+    "año":1999,
+    "genero":"Ciencia Ficcion",
+    "rating":"PG",
+    "tipo":"Pelicula",
+    "lista": 1
+},
+{
+    "id":4,
+    "titulo":"The Mandalorian",
+    "director":"Jon Favreau",
+    "año":2019,
+    "genero":"Ciencia Ficcion",
+    "rating":"MA14",
+    "tipo":"Serie",
+    "lista": 1
+},
+{
+    "id":5,
+    "titulo":"la casa del dragon",
+    "director":"Clare Kilner",
+    "año":2022,
+    "genero":"Ciencia Ficcion",
+    "rating":"TV-MA",
+    "tipo":"Serie",
+    "lista": 1
+},
+{
+    "id":6,
+    "titulo":"El señor de los anillos: los anillos de poder",
+    "director":"J. A. Bayona",
+    "año":2022,
+    "genero":"Aventura",
+    "rating":"TV-MA",
+    "tipo":"Serie",
+    "lista": 1
+}]
